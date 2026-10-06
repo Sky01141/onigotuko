@@ -1,0 +1,1 @@
+{"name":"chase","version":"0.2.0","private":true,"scripts":{"start":"node server/server.js"},"dependencies":{"ws":"^8.18.0"},"engines":{"node":">=18"}}
